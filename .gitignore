@@ -1,4 +1,4 @@
-mylogs.log
-/logging.log
-*.exe
-ignore/
+
+target/
+dbt_packages/
+logs/
